@@ -1,3 +1,8 @@
+//Scrivi un programma che stampi i numeri da uno a cento
+//AL posto di un numero multiplo di 3 scrivere Fizz
+//AL posto di un numero multiplo di 5 scrivere Buzz
+//AL posto di un numero multiplo di 5 scrivere Buzz
+
 var numeri = [];
 var lunghezzaArray = 100;
 var contatore = 0;
